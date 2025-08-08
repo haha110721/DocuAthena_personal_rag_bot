@@ -1,0 +1,8 @@
+langchain
+langchain_community
+transformers
+sentence-transformers
+accelerate
+datasets
+pypdf
+streamlit
