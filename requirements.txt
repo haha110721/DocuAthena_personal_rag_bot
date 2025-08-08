@@ -6,3 +6,5 @@ accelerate
 datasets
 pypdf
 streamlit
+requests
+ollama
